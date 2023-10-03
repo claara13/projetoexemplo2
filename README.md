@@ -3,4 +3,4 @@
 
  ## Hoje eu utilizei o GitHub Desktop
 
- [Link para a página do Senai] (https://www.sp.senai.br/) (https://git-scm.com/)
+ [Link para a página do Senai] (https://www.sp.senai.br/) (https://git-scm.com/images/logo@2x.png)
